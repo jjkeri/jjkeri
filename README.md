@@ -8,7 +8,7 @@
 ## About me
 
 I'm a Product Support Specialist with 10+ years of experience resolving complex
-technical issues for global enterprise clients — working at the intersection of
+technical issues for global enterprise clients, working at the intersection of
 **SaaS support**, **REST API debugging**, **authentication systems** (SSO/SAML/OAuth),
 and **AI tooling**.
 
@@ -50,7 +50,7 @@ to the technical side of the products I support.
 ## 🔧 Featured projects
 
 ### 🔒 pii-parser
-> Custom Claude AI skill that strips PII from support case data before processing —
+> Custom Claude AI skill that strips PII from support case data before processing,
 > built for safe, compliant case handling in enterprise environments.
 
 `Claude AI` `Python` `Privacy`
@@ -75,9 +75,9 @@ to the technical side of the products I support.
 
 ## 🏅 Certifications
 
-- ☁️ **AWS Cloud Practitioner Essentials** — AWS Training & Certification (2025)
-- 🤖 **Introduction to Generative AI** — Google Cloud / Coursera (2024)
-- 📦 **Order-to-Cash Expert Level** — Accenture / Discover OTC (2023)
+- ☁️ **AWS Cloud Practitioner Essentials**, AWS Training and Certification (2025)
+- 🤖 **Introduction to Generative AI**, Google Cloud / Coursera (2024)
+- 📦 **Order-to-Cash Expert Level**, Accenture / Discover OTC (2023)
 
 ---
 
